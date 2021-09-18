@@ -24,7 +24,8 @@ import { HomePageRoutingModule } from './home-routing.module';
       outerStrokeColor: "#78C000",
       // eslint-disable-next-line @typescript-eslint/quotes
       innerStrokeColor: "#C7E596",
-      animationDuration: 300
+      animationDuration: 300,
+      backgroundStroke:'"33003F"'
     })
 ],
 
